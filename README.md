@@ -1,6 +1,8 @@
 Android Things Rainbow HAT demo
 ===============================
 
+![alt text][logo]
+
 Demo [Android Things](https://developer.android.com/things/index.html) project, that targets Raspberry Pi 3 + 
 Rainbow HAT setup and demonstrates the usage of various hardware components on the board.
 
@@ -24,3 +26,4 @@ License
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+[logo]: https://github.com/JeppeLeth/android-things-rainbow-hat-sample/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png "Launcer icon with Super Mario"
